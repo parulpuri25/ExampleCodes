@@ -9,3 +9,6 @@ This repo contains Python code of LeetCode Questions solved.
 
    The in operator checks if s1 is a substring of s2. If true, then index method returns the index of first occurrence. If s1 is not a substring -1 is returned.
    
+3. Find Minimum Value in a list
+
+   This example finds the minimum value in each list. Using the element at 0th index as the minimum value, a for loop is used to compare it to all other elements of the list and the minimum value is returned.
