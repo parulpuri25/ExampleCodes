@@ -5,5 +5,4 @@ def firstOccurrence(s1,s2):
     else:
         return -1
 
-
 firstOccurrence('nee','needle')
