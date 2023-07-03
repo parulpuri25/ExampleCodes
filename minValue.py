@@ -5,3 +5,4 @@ def findMin(self, nums: List[int]) -> int:
             if min_val > nums[i]:
                 min_val = nums[i]
         return min_val
+
